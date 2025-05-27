@@ -8,7 +8,7 @@ import { Footer } from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Rosewood Academy - Excellence in Education',
+  title: 'St. Boston Edtech - Excellence in Education',
   description: 'A premier educational institution dedicated to academic excellence and holistic development',
 };
 
