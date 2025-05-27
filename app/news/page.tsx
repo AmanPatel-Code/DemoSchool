@@ -62,7 +62,7 @@ const newsItems = [
   },
   {
     id: 6,
-    title: "Rosewood Choir Wins Regional Championship",
+    title: "St. Boston Edtech Choir Wins Regional Championship",
     date: "April 22, 2025",
     excerpt: "Our school choir delivered a stunning performance at the Regional Choral Competition, securing first place and qualifying for nationals.",
     content: "The St. Boston Edtech Choir has once again demonstrated their exceptional talent by winning the Regional Choral Championship. Under the direction of Ms. Rebecca Thompson, the 35-member choir performed a challenging repertoire that included classical, contemporary, and folk selections. Their rendition of 'Hallelujah' by Leonard Cohen received a standing ovation from the audience and perfect scores from the judges. This victory qualifies them for the National Choral Competition, which will be held in Chicago this July. Congratulations to all choir members and their dedicated director for this outstanding achievement!",
