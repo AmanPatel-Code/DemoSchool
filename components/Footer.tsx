@@ -80,7 +80,7 @@ export function Footer() {
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-pink-600 mr-2 mt-0.5" />
                 <span className="text-gray-600">
-                  123 Education Lane, Learning City, ED 12345
+                  Bhaluwan Branch Gorakhpur 
                 </span>
               </li>
               <li className="flex items-center">
